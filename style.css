@@ -10,3 +10,11 @@
   --gray: #828799;
   --page-background: #f9fbfc;
 }
+
+body {
+  width: 100vw;
+  min-width: 500px;
+  height: 100vh;
+  font-family: 'Open Sans', sans-serif;
+  background-color: var(--page-background);
+}
